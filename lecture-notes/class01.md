@@ -17,3 +17,8 @@
 - History
 - Getting around (BASH shell)
 
+
+
+# Links
+
+- https://swcarpentry.github.io/shell-novice/
