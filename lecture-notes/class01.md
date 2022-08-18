@@ -1,8 +1,10 @@
 
 # Welcome
 
-- What is systems programming?
-- C programming language
+- What is [systems programming](https://en.wikipedia.org/wiki/Systems_programming)?
+- C programming language ( [why?](https://blog.qwasar.io/blog/why-you-should-learn-c-programming) )
+- [Linux](https://tldp.org/LDP/intro-linux/html/index.html)
+- Why?
 
 # Tour
 
@@ -26,6 +28,8 @@
 
 # Links
 
+
+- [Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [The UNIX Shell - Software Carpentry](https://swcarpentry.github.io/shell-novice/)
 - [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
 - [How to run Ubuntu Desktop on a virtual machine using VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox)
