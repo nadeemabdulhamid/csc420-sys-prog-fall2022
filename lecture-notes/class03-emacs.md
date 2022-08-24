@@ -16,7 +16,8 @@ The main disadvantage of Emacs is that
 
 Generally, people who have learned emacs tend to be dissatisfied with other text editors.
 
+Read further: http://www.cs.ecu.edu/~karl/emacs.html
+
 
 ## Links
  - https://www.masteringemacs.org/article/beginners-guide-to-emacs
- - 
