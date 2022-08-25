@@ -21,3 +21,4 @@ Read further: http://www.cs.ecu.edu/~karl/emacs.html
 
 ## Links
  - https://www.masteringemacs.org/article/beginners-guide-to-emacs
+ - https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf
