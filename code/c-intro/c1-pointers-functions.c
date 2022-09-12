@@ -1,3 +1,5 @@
+/* pointers-functions.c */
+
 #include <stdio.h>
 
 void f(int x, int y);
